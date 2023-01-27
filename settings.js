@@ -25,8 +25,8 @@ global.ownernomer = "94784153052" //ur number
 global.premium = ['94784153052'] //ur premium number
 global.botname = '9tㅤＤexter★' //ur bot name
 global.linkz = "https://www.facebook.com/profile.php?id=100078175149491" //your theme url which will be displayed on whatsapp
-global.websitex = "https://www.helacloud.ga" //ur website to be displayed
-global.botscript = 'https://github.com/nimaofficial/Black-Dragon' //script link
+global.websitex = "https://telegra.ph/file/b1d2451fa3985018da8d7.jpg" //ur website to be displayed
+global.botscript = 'https://www.facebook.com/profile.php?id=100078175149491' //script link
 global.themeemoji = "❤️" //ur theme emoji
 global.packname = "Sticker ㅤＤexter★" //ur sticker watermark packname
 global.author = "GAMING DEXTER" //ur sticker watermark author
